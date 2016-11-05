@@ -1,3 +1,6 @@
+# Author(s): Isaiah Mann
+# Description: Exports Twitter JSON with just the keys and the text
+
 import json
 textKey = "text"
 userKey = "user"
