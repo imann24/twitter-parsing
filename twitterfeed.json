@@ -1,0 +1,2352 @@
+{
+"Twitter" : [
+   {
+    "created_at": "Fri Nov 04 20:23:23 +0000 2016",
+    "id": 794636180184854500,
+    "id_str": "794636180184854529",
+    "text": "@glowlimegames and @isaiah_the_mann in the house. Actually another building but I could not be bothered to get the… https://t.co/XjnAC5YUcl",
+    "truncated": true,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "glowlimegames",
+          "name": "GlowLime Games",
+          "id": 4308122656,
+          "id_str": "4308122656",
+          "indices":  [
+            0,
+            14
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            19,
+            35
+          ]
+        }
+      ],
+      "urls":  [
+         {
+          "url": "https://t.co/XjnAC5YUcl",
+          "expanded_url": "https://twitter.com/i/web/status/794636180184854529",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices":  [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 4308122656,
+    "in_reply_to_user_id_str": "4308122656",
+    "in_reply_to_screen_name": "glowlimegames",
+    "user":  {
+      "id": 16844906,
+      "id_str": "16844906",
+      "name": "Montster27",
+      "screen_name": "Montster27",
+      "location": "iPhone: 42.364014,-71.016525",
+      "description": "Games, education and entrepreneurship...and bacon",
+      "url": "http://t.co/drsoOxUdxp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/drsoOxUdxp",
+              "expanded_url": "http://www.massdigi.org",
+              "display_url": "massdigi.org",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 709,
+      "friends_count": 724,
+      "listed_count": 41,
+      "created_at": "Sat Oct 18 23:44:27 +0000 2008",
+      "favourites_count": 381,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4221,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/445799391707025408/w5-yjsV5_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/445799391707025408/w5-yjsV5_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Nov 02 04:35:08 +0000 2016",
+    "id": 793672768994832400,
+    "id_str": "793672768994832384",
+    "text": "@lucidity_city @isaiah_the_mann Us doing Lex stuff in the Spring :')))",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "lucidity_city",
+          "name": "Marcus Maulucci",
+          "id": 1626025406,
+          "id_str": "1626025406",
+          "indices":  [
+            0,
+            14
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 793619255702986800,
+    "in_reply_to_status_id_str": "793619255702986752",
+    "in_reply_to_user_id": 1626025406,
+    "in_reply_to_user_id_str": "1626025406",
+    "in_reply_to_screen_name": "lucidity_city",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Nov 02 01:02:29 +0000 2016",
+    "id": 793619255702986800,
+    "id_str": "793619255702986752",
+    "text": "@flarechess @isaiah_the_mann https://t.co/Dkg3qUSP7d",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            0,
+            11
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            12,
+            28
+          ]
+        }
+      ],
+      "urls":  [
+         {
+          "url": "https://t.co/Dkg3qUSP7d",
+          "expanded_url": "https://twitter.com/dril/status/793609053586980864",
+          "display_url": "twitter.com/dril/status/79…",
+          "indices":  [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href='http://twitter.com/download/android' rel='nofollow'>Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2771129936,
+    "in_reply_to_user_id_str": "2771129936",
+    "in_reply_to_screen_name": "flarechess",
+    "user":  {
+      "id": 1626025406,
+      "id_str": "1626025406",
+      "name": "Marcus Maulucci",
+      "screen_name": "lucidity_city",
+      "location": "",
+      "description": "I make games with great people: @chisastudios, @glowlimegames + @dreamteam_dev\nI also draw, complain and attempt to be funny.",
+      "url": "https://t.co/UQcCdDMQUs",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/UQcCdDMQUs",
+              "expanded_url": "http://glowlime.com",
+              "display_url": "glowlime.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 14,
+      "friends_count": 91,
+      "listed_count": 2,
+      "created_at": "Sat Jul 27 18:14:24 +0000 2013",
+      "favourites_count": 3327,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 285,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/730059344599908352/PVyHhbPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/730059344599908352/PVyHhbPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626025406/1413125571",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 793609053586980900,
+    "quoted_status_id_str": "793609053586980864",
+    "quoted_status":  {
+      "created_at": "Wed Nov 02 00:21:57 +0000 2016",
+      "id": 793609053586980900,
+      "id_str": "793609053586980864",
+      "text": "i got lock jaw from eating pasta out of a dogbowl and my wife will be here in 2 hours to marry me. help me github",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16298441,
+        "id_str": "16298441",
+        "name": "wint",
+        "screen_name": "dril",
+        "location": "delaware",
+        "description": "blocked by bubba burger for no reason",
+        "url": "http://t.co/8V6Wi4tMN3",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/8V6Wi4tMN3",
+                "expanded_url": "http://www.wint.co",
+                "display_url": "wint.co",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 408425,
+        "friends_count": 202,
+        "listed_count": 2915,
+        "created_at": "Mon Sep 15 17:21:54 +0000 2008",
+        "favourites_count": 20,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6887,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/426222433/oscars1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/426222433/oscars1.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707320204280373248/3PJZnNgG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707320204280373248/3PJZnNgG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16298441/1394248006",
+        "profile_link_color": "2E82DB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "5B5BA8",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2539,
+      "favorite_count": 8385,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+   {
+    "created_at": "Sun Sep 11 22:21:06 +0000 2016",
+    "id": 775096858427392000,
+    "id_str": "775096858427392001",
+    "text": "@lucidity_city to quote @isaiah_the_mann : 'No, that is not important.' 😭😭",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "lucidity_city",
+          "name": "Marcus Maulucci",
+          "id": 1626025406,
+          "id_str": "1626025406",
+          "indices":  [
+            0,
+            14
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            24,
+            40
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href= 'http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 775081366971150300,
+    "in_reply_to_status_id_str": "775081366971150336",
+    "in_reply_to_user_id": 1626025406,
+    "in_reply_to_user_id_str": "1626025406",
+    "in_reply_to_screen_name": "lucidity_city",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Aug 19 04:16:31 +0000 2016",
+    "id": 766488992695148500,
+    "id_str": "766488992695148544",
+    "text": "@isaiah_the_mann @glowlimegames are you looking for them to be located somewhere specific?",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        },
+         {
+          "screen_name": "glowlimegames",
+          "name": "GlowLime Games",
+          "id": 4308122656,
+          "id_str": "4308122656",
+          "indices":  [
+            17,
+            31
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='https://mobile.twitter.com' rel='nofollow'>Mobile Web (M5)</a>",
+    "in_reply_to_status_id": 766486303172997100,
+    "in_reply_to_status_id_str": "766486303172997120",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 41506737,
+      "id_str": "41506737",
+      "name": "Lani",
+      "screen_name": "futureheads242",
+      "location": "aliso viejo",
+      "description": "like jack hanna but smaller",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 544,
+      "listed_count": 1,
+      "created_at": "Thu May 21 02:06:56 +0000 2009",
+      "favourites_count": 3997,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3690,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679437189/92f1b2d45ae90ba8ed062cd733fe1e9d.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679437189/92f1b2d45ae90ba8ed062cd733fe1e9d.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/632417956341788672/G8LN5GGO_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/632417956341788672/G8LN5GGO_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/41506737/1421727855",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "1C1C1C",
+      "profile_text_color": "C4B25A",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Tue Aug 16 14:21:08 +0000 2016",
+    "id": 765553986950824000,
+    "id_str": "765553986950823936",
+    "text": "Eternal Flopnation out now for iOS + Android - by @dacharya64 @isaiah_the_mann @JosephGillen_ @doodlinghere and me. https://t.co/TzTBPPRoJa",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "dacharya64",
+          "name": "Devi Acharya",
+          "id": 3057238438,
+          "id_str": "3057238438",
+          "indices":  [
+            50,
+            61
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            62,
+            78
+          ]
+        },
+         {
+          "screen_name": "JosephGillen_",
+          "name": "Young Chriswald",
+          "id": 3344661503,
+          "id_str": "3344661503",
+          "indices":  [
+            79,
+            93
+          ]
+        },
+         {
+          "screen_name": "doodlinghere",
+          "name": "Elizabeth Darragh",
+          "id": 3332621979,
+          "id_str": "3332621979",
+          "indices":  [
+            94,
+            107
+          ]
+        }
+      ],
+      "urls":  [
+         {
+          "url": "https://t.co/TzTBPPRoJa",
+          "expanded_url": "http://bit.ly/2aYAkR1",
+          "display_url": "bit.ly/2aYAkR1",
+          "indices":  [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 2852807836,
+      "id_str": "2852807836",
+      "name": "Mackenzie Denker",
+      "screen_name": "denker_m",
+      "location": "",
+      "description": "Programmer, composer, and game developer.",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 91,
+      "friends_count": 224,
+      "listed_count": 3,
+      "created_at": "Fri Oct 31 01:45:32 +0000 2014",
+      "favourites_count": 486,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 101,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/634058772101656576/V1lc_dDy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/634058772101656576/V1lc_dDy_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jun 04 01:27:03 +0000 2016",
+    "id": 738904868002369500,
+    "id_str": "738904868002369536",
+    "text": "@isaiah_the_mann your image seems more entrepreneurial to me, but I suppose that's closer to the truth, anyway, right?",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 738902896385896400,
+    "in_reply_to_status_id_str": "738902896385896448",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 1022969864,
+      "id_str": "1022969864",
+      "name": "Harlow Canyougo",
+      "screen_name": "JHarlowR",
+      "location": "",
+      "description": "gay + angry + serene = gangrene",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 186,
+      "friends_count": 480,
+      "listed_count": 4,
+      "created_at": "Wed Dec 19 21:57:40 +0000 2012",
+      "favourites_count": 21133,
+      "utc_offset": -10800,
+      "time_zone": "Buenos Aires",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2654,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/780095429778300929/Ti6An4vl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/780095429778300929/Ti6An4vl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022969864/1474770788",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jun 04 01:08:36 +0000 2016",
+    "id": 738900224844943400,
+    "id_str": "738900224844943360",
+    "text": "@isaiah_the_mann Are you in the process of reinventing your image across social media platforms?",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 738881337168384000,
+    "in_reply_to_status_id_str": "738881337168384000",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 1022969864,
+      "id_str": "1022969864",
+      "name": "Harlow Canyougo",
+      "screen_name": "JHarlowR",
+      "location": "",
+      "description": "gay + angry + serene = gangrene",
+      "url": null,
+      "entities":  {
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 186,
+      "friends_count": 480,
+      "listed_count": 4,
+      "created_at": "Wed Dec 19 21:57:40 +0000 2012",
+      "favourites_count": 21133,
+      "utc_offset": -10800,
+      "time_zone": "Buenos Aires",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2654,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/780095429778300929/Ti6An4vl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/780095429778300929/Ti6An4vl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022969864/1474770788",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Apr 30 16:10:25 +0000 2016",
+    "id": 726443600171683800,
+    "id_str": "726443600171683841",
+    "text": ".@isaiah_the_mann on how producing games req learning collab & proj management. How to talk about that as work of the scholar? @5collDH",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            1,
+            17
+          ]
+        },
+         {
+          "screen_name": "5collDH",
+          "name": "Five College DH",
+          "id": 2266577936,
+          "id_str": "2266577936",
+          "indices":  [
+            131,
+            139
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 2266165844,
+      "id_str": "2266165844",
+      "name": "Marisa Parham",
+      "screen_name": "amplify285",
+      "location": "Amherst, MA",
+      "description": "talker. writer. professor @ Amherst C. + director & cultivator of media, digital, & tech ecologies @5collDH #DigitalHumanities #VR My tweets are my tweets...",
+      "url": "http://t.co/f6xKlZScMm",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/f6xKlZScMm",
+              "expanded_url": "http://mp285.com",
+              "display_url": "mp285.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 1146,
+      "friends_count": 888,
+      "listed_count": 65,
+      "created_at": "Sat Dec 28 16:59:05 +0000 2013",
+      "favourites_count": 4569,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2927,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000158590341/-4W6mx2x.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000158590341/-4W6mx2x.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/552536164792422401/TjLuPIvN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/552536164792422401/TjLuPIvN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2266165844/1462146162",
+      "profile_link_color": "007373",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "0084B4",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place":  {
+      "id": "0163dc79526989c6",
+      "url": "https://api.twitter.com/1.1/geo/id/0163dc79526989c6.json",
+      "place_type": "city",
+      "name": "Amherst",
+      "full_name": "Amherst, MA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within":  [],
+      "bounding_box":  {
+        "type": "Polygon",
+        "coordinates":  [
+           [
+             [
+              -72.5377835,
+              42.329754
+            ],
+             [
+              -72.457946,
+              42.329754
+            ],
+             [
+              -72.457946,
+              42.401248
+            ],
+             [
+              -72.5377835,
+              42.401248
+            ]
+          ]
+        ]
+      },
+      "attributes":  {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Apr 14 15:37:30 +0000 2016",
+    "id": 720637108776542200,
+    "id_str": "720637108776542208",
+    "text": "@gracebarsny @isaiah_the_mann @HughesChandra my wrIST AND MY LEGS ARE KILLING ME from all this EXERCISE but it was still a lot of fun 😄",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "gracebarsny",
+          "name": "Grace Barrett-Snyder",
+          "id": 48897284,
+          "id_str": "48897284",
+          "indices":  [
+            0,
+            12
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            13,
+            29
+          ]
+        },
+         {
+          "screen_name": "HughesChandra",
+          "name": "Chandra Hughes",
+          "id": 714418679405027300,
+          "id_str": "714418679405027329",
+          "indices":  [
+            30,
+            44
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 720610336144040000,
+    "in_reply_to_status_id_str": "720610336144039936",
+    "in_reply_to_user_id": 48897284,
+    "in_reply_to_user_id_str": "48897284",
+    "in_reply_to_screen_name": "gracebarsny",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Apr 14 13:51:07 +0000 2016",
+    "id": 720610336144040000,
+    "id_str": "720610336144039936",
+    "text": "I don't know about @flarechess @isaiah_the_mann or @HughesChandra but I am still wiped from tennis yesterday.",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            19,
+            30
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            31,
+            47
+          ]
+        },
+         {
+          "screen_name": "HughesChandra",
+          "name": "Chandra Hughes",
+          "id": 714418679405027300,
+          "id_str": "714418679405027329",
+          "indices":  [
+            51,
+            65
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sun Apr 10 16:23:36 +0000 2016",
+    "id": 719199160730284000,
+    "id_str": "719199160730284034",
+    "text": "@isaiah_the_mann @flarechess My expectations are low.",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        },
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 719193927476240400,
+    "in_reply_to_status_id_str": "719193927476240385",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sun Apr 10 16:01:52 +0000 2016",
+    "id": 719193689965391900,
+    "id_str": "719193689965391872",
+    "text": "@isaiah_the_mann @flarechess We will hold you to that.",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        },
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 719193270363013100,
+    "in_reply_to_status_id_str": "719193270363013120",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 17:12:50 +0000 2016",
+    "id": 718486772917891100,
+    "id_str": "718486772917891072",
+    "text": "@isaiah_the_mann @gracebarsny you shoulda mentioned Sabrina for Winter Break though!! D: she's also a producer!",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            0,
+            16
+          ]
+        },
+         {
+          "screen_name": "gracebarsny",
+          "name": "Grace Barrett-Snyder",
+          "id": 48897284,
+          "id_str": "48897284",
+          "indices":  [
+            17,
+            29
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+    "in_reply_to_status_id": 718480098119327700,
+    "in_reply_to_status_id_str": "718480098119327744",
+    "in_reply_to_user_id": 3325699043,
+    "in_reply_to_user_id_str": "3325699043",
+    "in_reply_to_screen_name": "isaiah_the_mann",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 16:44:14 +0000 2016",
+    "id": 718479578424090600,
+    "id_str": "718479578424090625",
+    "text": "@gracebarsny @glowlimegames @isaiah_the_mann @slumpykake i wasn'T AS RELEVANT...!!",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "gracebarsny",
+          "name": "Grace Barrett-Snyder",
+          "id": 48897284,
+          "id_str": "48897284",
+          "indices":  [
+            0,
+            12
+          ]
+        },
+         {
+          "screen_name": "glowlimegames",
+          "name": "GlowLime Games",
+          "id": 4308122656,
+          "id_str": "4308122656",
+          "indices":  [
+            13,
+            27
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            28,
+            44
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 718478944966733800,
+    "in_reply_to_status_id_str": "718478944966733824",
+    "in_reply_to_user_id": 48897284,
+    "in_reply_to_user_id_str": "48897284",
+    "in_reply_to_screen_name": "gracebarsny",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 16:41:43 +0000 2016",
+    "id": 718478944966733800,
+    "id_str": "718478944966733824",
+    "text": "@glowlimegames @isaiah_the_mann So you mention me and @slumpykake, but not @flarechess??",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "glowlimegames",
+          "name": "GlowLime Games",
+          "id": 4308122656,
+          "id_str": "4308122656",
+          "indices":  [
+            0,
+            14
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            15,
+            31
+          ]
+        },
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            75,
+            86
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/#!/download/ipad' rel='nofollow'>Twitter for iPad</a>",
+    "in_reply_to_status_id": 718453557574377500,
+    "in_reply_to_status_id_str": "718453557574377472",
+    "in_reply_to_user_id": 4308122656,
+    "in_reply_to_user_id_str": "4308122656",
+    "in_reply_to_screen_name": "glowlimegames",
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 16:35:11 +0000 2016",
+    "id": 718477298991788000,
+    "id_str": "718477298991788032",
+    "text": "@flarechess @isaiah_the_mann Wasn't sure how that was large until further scrolling on my news feed.",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            0,
+            11
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            12,
+            28
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/#!/download/ipad' rel='nofollow'>Twitter for iPad</a>",
+    "in_reply_to_status_id": 718477067394920400,
+    "in_reply_to_status_id_str": "718477067394920449",
+    "in_reply_to_user_id": 2771129936,
+    "in_reply_to_user_id_str": "2771129936",
+    "in_reply_to_screen_name": "flarechess",
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 16:34:16 +0000 2016",
+    "id": 718477067394920400,
+    "id_str": "718477067394920449",
+    "text": "@gracebarsny @isaiah_the_mann look at his profile picture.",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "gracebarsny",
+          "name": "Grace Barrett-Snyder",
+          "id": 48897284,
+          "id_str": "48897284",
+          "indices":  [
+            0,
+            12
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            13,
+            29
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": 718474857856507900,
+    "in_reply_to_status_id_str": "718474857856507904",
+    "in_reply_to_user_id": 48897284,
+    "in_reply_to_user_id_str": "48897284",
+    "in_reply_to_screen_name": "gracebarsny",
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 16:25:29 +0000 2016",
+    "id": 718474857856507900,
+    "id_str": "718474857856507904",
+    "text": "@flarechess @isaiah_the_mann ...Which one is this again?",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "flarechess",
+          "name": "Sam Luangkhot",
+          "id": 2771129936,
+          "id_str": "2771129936",
+          "indices":  [
+            0,
+            11
+          ]
+        },
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            12,
+            28
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/#!/download/ipad' rel='nofollow'>Twitter for iPad</a>",
+    "in_reply_to_status_id": 718463972882702300,
+    "in_reply_to_status_id_str": "718463972882702336",
+    "in_reply_to_user_id": 2771129936,
+    "in_reply_to_user_id_str": "2771129936",
+    "in_reply_to_screen_name": "flarechess",
+    "user":  {
+      "id": 48897284,
+      "id_str": "48897284",
+      "name": "Grace Barrett-Snyder",
+      "screen_name": "gracebarsny",
+      "location": "MA/NY, USA",
+      "description": "Programmer and Lead Designer for @ColosseumCoach with @mass_digi SIP 2016.",
+      "url": "https://t.co/WZjENJyZPD",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/WZjENJyZPD",
+              "expanded_url": "http://www.gracebarsny.com",
+              "display_url": "gracebarsny.com",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 140,
+      "friends_count": 172,
+      "listed_count": 13,
+      "created_at": "Sat Jun 20 02:03:14 +0000 2009",
+      "favourites_count": 489,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2686,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/705880922462277633/lfDkW8wJ_normal.jpg",
+      "profile_link_color": "E24F68",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Apr 08 15:42:14 +0000 2016",
+    "id": 718463972882702300,
+    "id_str": "718463972882702336",
+    "text": "Every time someone talks about @isaiah_the_mann they always use his BIG face picture... U know the 1... It's startling to scroll across",
+    "truncated": false,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "isaiah_the_mann",
+          "name": "Isaiah Mann",
+          "id": 3325699043,
+          "id_str": "3325699043",
+          "indices":  [
+            31,
+            47
+          ]
+        }
+      ],
+      "urls":  []
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 2771129936,
+      "id_str": "2771129936",
+      "name": "Sam Luangkhot",
+      "screen_name": "flarechess",
+      "location": "samluangkhot.com",
+      "description": "21/廣東話/@mass_digi SIP2016 Producer+Artist @smashcrusaders / @glowlimegames/ Producer+Lead Artist @lexthewizard / @dreamteam_dev/ #PokemonGo",
+      "url": "https://t.co/6Gd1wsr3Gp",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "https://t.co/6Gd1wsr3Gp",
+              "expanded_url": "https://www.linkedin.com/in/sam-luangkhot",
+              "display_url": "linkedin.com/in/sam-luangkh…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 525,
+      "friends_count": 1297,
+      "listed_count": 50,
+      "created_at": "Tue Aug 26 20:25:31 +0000 2014",
+      "favourites_count": 29671,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4311,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/747150210367897606/kJ-MwLmS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2771129936/1466995071",
+      "profile_link_color": "33CC99",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
+}
